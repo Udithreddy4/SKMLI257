@@ -8,7 +8,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.metrics import mean_squared_error
 
-data = pd.read_csv("C:\\Users\\himap\\Downloads\\diabetes.csv")
+data = pd.read_csv("C:\\Users\\udith\\Downloads\\diabetes.csv")
 
 X = data.drop('Outcome', axis=1)
 y = data['Outcome']               
