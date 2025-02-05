@@ -23,7 +23,7 @@ def adam_optimizer(m, v, t, grads, beta1=0.9, beta2=0.999, epsilon=1e-8, learnin
     return m, v, params_update
 
 
-data = pd.read_csv("C:\\Users\\himap\\Downloads\\diabetes.csv")
+data = pd.read_csv("C:\\Users\\udith\\Downloads\\diabetes.csv")
 
 X = data.drop('Outcome', axis=1)
 y = data['Outcome']
