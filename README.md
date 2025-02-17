@@ -14,3 +14,4 @@ https://github.com/Udithreddy4/SKMLI257/issues/3
 https://github.com/Udithreddy4/SKMLI257/issues/4
 
 #OUTPUT TASK 1B NAIVE BAYESIAN:
+https://github.com/Udithreddy4/SKMLI257/issues/5
