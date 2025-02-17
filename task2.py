@@ -16,7 +16,7 @@ from math import sin, cos, sqrt, atan2, radians
 import time
 
 # Load the data
-input_data = pd.read_csv("C:\\Users\\himap\\Desktop\\rapido.csv")
+input_data = pd.read_csv("C:\\Users\\udith\\Desktop\\rapido.csv")
 print("Data size before removing: ", input_data.shape)
 
 # Remove duplicates
