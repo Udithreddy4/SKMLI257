@@ -16,5 +16,7 @@ https://github.com/Udithreddy4/SKMLI257/issues/4
 #OUTPUT TASK 1B NAIVE BAYESIAN:
 https://github.com/Udithreddy4/SKMLI257/issues/5
 
+#OUTPUT TASK 2 RAPIDO BIKE RIDE REQUEST FORECAST
+https://github.com/Udithreddy4/SKMLI257/issues/7
 
-https://github.com/Udithreddy4/SKMLI257/issues/6
+#OUTPUT TASK 3 HEALTH DISORDER PREDICTOR
